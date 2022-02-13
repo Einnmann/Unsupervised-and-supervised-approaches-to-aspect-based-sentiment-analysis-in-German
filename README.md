@@ -4,7 +4,7 @@ This project consists of the two Jupyter notebooks:
  * BERT.ipynb
  * sentiart_bert.ipynb
  
-The first notebook contains the code that was used to train and test the BERT model and to extract BERT's sentence embeddings. The second notebook contains the code that was used to apply the adjustments to SentiArt and to combine BERT and SentiArt, as well as the evaluations.
+The first notebook contains the code that was used to train and test the BERT model and to extract BERT's sentence embeddings. The second notebook contains the code that was used to apply the adjustments to SentiArt and combine BERT and SentiArt, as well as the evaluations of the models.
 
 ### Important papers
 
