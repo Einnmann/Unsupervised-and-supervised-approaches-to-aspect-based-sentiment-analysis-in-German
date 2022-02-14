@@ -5,7 +5,7 @@
  * sentiart_bert.ipynb - the Jupyter notebook, which contains the code allowing to combine SentiArt (1) and BERT (2). 
  * data - a folder, which contains BERT's sentence embeddings and the indexes of the test samples.
 
-### Important papers
+### Important papers:
 
 (1) Jacobs, A. M., & Kinder, A. (2019). Computing the Affective-Aesthetic Potential of Literary Texts. AI, 1(1), 11–27. doi:10.3390/ai1010002
 
