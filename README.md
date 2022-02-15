@@ -1,8 +1,8 @@
 # Unsupervised-and-supervised-approaches-to-aspect-based-sentiment-analysis-in-German
 
 ### Project Content:
- * BERT.ipynb - the Jupyter notebook, which contains the code that allows to train and test BERT and compute BERT's sentence embeddings;
- * sentiart_bert.ipynb - the Jupyter notebook, which contains the code allowing to combine SentiArt (1) and BERT (2);
+ * BERT.ipynb - a Jupyter notebook, which contains the code that allows to train and test BERT and compute BERT's sentence embeddings;
+ * sentiart_bert.ipynb - a Jupyter notebook, which contains the code allowing to combine SentiArt (1) and BERT (2);
  * data - a folder, which contains BERT's sentence embeddings and the indexes of the test samples.
 
 ### Description:
