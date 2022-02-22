@@ -3,7 +3,7 @@
 ### Project Content:
  * BERT.ipynb - a Jupyter notebook, which contains the code that allows to train and test BERT and compute BERT's sentence embeddings;
  * sentiart_bert.ipynb - a Jupyter notebook, which contains the code allowing to combine SentiArt (1) and BERT (2);
- * data - a folder, which contains an example of BERT's sentence embeddings and the indexes of the test samples.
+ * data - a folder, which contains an example of BERT's sentence embeddings and the indices of the test samples.
 
 ### Description:
   In this work, the unsupervised vector space model (VSM)-based algorithm called SentiArt and the CatBoost regressor were used to predict the continuous valence values of literary texts evaluated by human raters. The predictive accuracy of the valence values was improved by incorporating new features into the dataset and adjusting the data based on the list with valence shifters and subject-verb-object (SVO) triplets, which yielded an 𝑅^2 value of 0.338. The BERT model was also utilized for predicting continuous valence values and obtained an 𝑅^2 value of 0.443. In a final approach, BERT’s sentence embeddings were added to those of SentiArt, and this hybrid model outperformed the other two models with an 𝑅^2 value of 0.458.
